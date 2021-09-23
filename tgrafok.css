@@ -1,0 +1,50 @@
+body{
+  background-image: url(big-graph.png);
+  background-position: top;
+  background-position-x: center;
+  background-repeat: no-repeat; 
+  padding: 10px;
+  margin: 0px;
+  text-align: justify;
+}
+
+p:first-letter {
+  margin-left:15px;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2, h3{
+  font-style: italic;
+}
+
+
+#jobbra{
+  float: right;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  font-style: italic;
+  font-size: 0.7em;
+  color: #FF0000;
+  border-image-width: 400px;
+  background-color: FFFFFF;
+  border-color: black;
+}
+
+.kerdeskep{
+  float: left;
+  margin-right: 20px;
+  width: 222px;
+}
+
+a{
+  color:red;
+}
+
+.dolt{
+  font-style: italic;
+}
